@@ -1,0 +1,9 @@
+name: spotify-album-collage
+dependencies:
+  - numpy
+  - spotipy
+  - pandas
+  - matplotlib
+  - urllib3
+  - pillow
+  - os
