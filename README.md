@@ -1,5 +1,7 @@
 # Spotify Album Collage
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djsnipa1/spotify-album-collage/master?filepath=collage.ipnyb)
+
 ![Image collage](collage.jpeg)
 
 ### Contents
